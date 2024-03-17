@@ -1,5 +1,5 @@
 package com.mch.issuetest.enums
 
 enum class MainActionType(val type: Int) {
-    FAVORITE_LIST(1)
+    FAVORITE_LIST(0)
 }

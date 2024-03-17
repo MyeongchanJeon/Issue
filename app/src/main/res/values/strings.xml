@@ -6,4 +6,11 @@
 
     <!-- 메인 -->
     <string name="main_title">이슈를 선택해주세요.</string>
+
+    <!-- 자주찾는메뉴 -->
+    <string name="favorite_menu_empty">리스트가 비었습니다.</string>
+    <string name="favorite_menu_recharge">충전</string>
+    <string name="favorite_menu_bank_account">계좌연결</string>
+    <string name="favorite_menu_deduction">소득공제</string>
+    <string name="favorite_menu_policy">약관</string>
 </resources>

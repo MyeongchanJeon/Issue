@@ -9,6 +9,7 @@ import com.mch.issuetest.databinding.ActivityMainBinding
 import com.mch.issuetest.databinding.ItemIssueListBinding
 import com.mch.issuetest.enums.MainActionType
 import com.mch.issuetest.screen.main.contract.MainContract
+import com.mch.issuetest.util.ActivityUtil
 
 class MainActivity : AppCompatActivity(), MainContract.View {
 
@@ -42,7 +43,7 @@ class MainActivity : AppCompatActivity(), MainContract.View {
     private fun actionActivity(actionType: Int?=-1) {
         when {
             actionType == MainActionType.FAVORITE_LIST.type -> {
-
+                ActivityUtil.startFavoriteMenuActivity(this@MainActivity)
             }
             else -> {} //do nothing
         }
