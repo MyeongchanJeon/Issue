@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- f_ffffff -->
+
+    <!-- f_000000 -->
+    <style name="f_000000_12R">
+        <item name="android:textColor">@color/c_000000</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="f_000000_20B">
+        <item name="android:textColor">@color/c_000000</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- f_666666 -->
+</resources>

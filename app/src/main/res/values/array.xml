@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="issue_list">
+        <item>@string/issue_title_favorite_menu</item>
+    </array>
+</resources>

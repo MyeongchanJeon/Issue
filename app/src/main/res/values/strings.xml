@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IssueTest</string>
+
+    <!-- Issue List Title -->
+    <string name="issue_title_favorite_menu">자주찾는메뉴 리스트</string>
+
+    <!-- 메인 -->
+    <string name="main_title">이슈를 선택해주세요.</string>
 </resources>
